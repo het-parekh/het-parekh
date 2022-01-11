@@ -1,32 +1,16 @@
 
-<!--
-**het-parekh/het-parekh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-----
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## Het Parekh
 ### Hi, I'm Het, an IT student passionate about Web Designing and Python Development.
 
 - 🏦 I am in my Last Year of Engineering
-- Proficient with MERN stack and python frameworks
+- 🌱 Adept with MERN stack and Python Frameworks
 - :books: I’m currently learning Flutter
 - 👯 We can connect on Chess.com♟ to play some games
 - J'apprends le français (I am learning to speak French :blush: )
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=het-parekh" alt="het-parekh" /> </p> 
 
-⚡ Skills I am proficient at,
+### Skills I am proficient in
 
 #### :point_right: Frontend
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
@@ -48,7 +32,7 @@ Here are some ideas to get you started:
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 #### :point_right: Tools I use
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white](https://code.visualstudio.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/)
 [![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](https://www.adobe.com/in/products/xd.html)
