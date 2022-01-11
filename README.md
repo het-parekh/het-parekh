@@ -4,9 +4,9 @@
 
 - 🏦 I am in my Last Year of Engineering
 - 🌱 Adept with MERN stack and Python Frameworks
-- :books: I’m currently learning Flutter
+- :blue_book: I’m currently learning Flutter
 - 👯 We can connect on Chess.com♟ to play some games
-- J'apprends le français (I am learning to speak French :blush: )
+- :cloud: J'apprends le français (I am learning to speak French :blush: )
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=het-parekh" alt="het-parekh" /> </p> 
 
@@ -37,7 +37,7 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/)
 [![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](https://www.adobe.com/in/products/xd.html)
 
-#### :handshake: Connect with me on,
+#### :handshake: Connect with me on
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/het-parekh-87839a1b0/) 
 [<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:hetparekh26@gmail.com)
 [<img src ="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" height="30" width="40">](https://www.hackerrank.com/hetparekh263)
