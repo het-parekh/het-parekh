@@ -2,9 +2,9 @@
 ## Het Parekh
 ### Hi, I'm Het, an IT student passionate about Web Designing and Python Development.
 
-- 🏦 Interning at Start With Genesis
+- 🏦 Interned at Start With Genesis
 - 🌱 Adept with MERN stack and Python Frameworks
-- :blue_book: I’m currently learning Flutter
+- :blue_book: I’m currently learning React Native
 - 👯 We can connect on Chess.com♟ to play some games
 - :cloud: J'apprends le français (I am learning to speak French :blush: )
 
